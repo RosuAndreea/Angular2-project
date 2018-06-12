@@ -3,4 +3,11 @@
 }
 .nav-tabs li {
   padding: 10px 40px;
+  border-radius: 6px;
+}
+.nav-tabs li:hover {
+  background-color: #ccc;
+}
+.active {
+  border: 1px solid #DDD;
 }
